@@ -46,7 +46,7 @@ int main()
 *不要错过！*
 
 ~~这里不好玩~~
-*尝试跳转到SamYU中*
-[SamYU](https://github.com/Yu-Simon/The_real/blob/main/SamYu.md)
+*买家秀展示*
+[买家秀](https://github.com/Yu-Simon/The_real/blob/main/SamYu.md)
 
 ![小黄人](https://github.com/Yu-Simon/The_real/blob/main/6a63f6246b600c334c3e91cb1e4c510fd9f9a16a.jpg)
